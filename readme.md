@@ -1,3 +1,5 @@
+`docker exec -u 0 -it id /bin/sh`
+
 `wget https://tool.trungtran.site/ffmpeg/apk.static`
 
 `chmod +x apk.static`
